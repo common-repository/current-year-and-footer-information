@@ -1,0 +1,8 @@
+<wpml-config>
+    <admin-texts>
+        <key name="wpcyfi_legal_notice_name"/>
+        <key name="wpcyfi_legal_notice_url"/>
+        <key name="wpcyfi_cookies_name"/>
+        <key name="wpcyfi_cookies_url"/>
+    </admin-texts>
+</wpml-config>

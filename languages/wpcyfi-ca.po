@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Current Year and Footer Information\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-07 08:41+0100\n"
+"PO-Revision-Date: 2020-01-02 13:57+0100\n"
+"Last-Translator: aitor <aitor@inaudit.es>\n"
+"Language-Team: \n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: ca_ES\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/class-wpcyfi-settings.php:54
+msgid "Current year and footer information"
+msgstr "Any actual"
+
+#: ../classes/class-wpcyfi-settings.php:54
+msgid "Current year and footer info"
+msgstr "Any actual"
+
+#: ../classes/class-wpcyfi-settings.php:74
+msgid "Settings saved successfully."
+msgstr "Configuració desada correctament."
+
+#: ../classes/class-wpcyfi-settings.php:90
+msgid "Save settings"
+msgstr "Desar configuració"
+
+#: ../classes/class-wpcyfi-settings.php:115
+msgid "Legal notice name"
+msgstr "Nom avís legal"
+
+#: ../classes/class-wpcyfi-settings.php:117
+msgid "Legal notice URL"
+msgstr "URL avís legal"
+
+#: ../classes/class-wpcyfi-settings.php:119
+#: ../classes/class-wpcyfi-settings.php:125
+msgid "Show URL in a new page"
+msgstr "Mostra l'URL en una nova pàgina"
+
+#: ../classes/class-wpcyfi-settings.php:121
+msgid "Cookies name"
+msgstr "Nom política de Cookies"
+
+#: ../classes/class-wpcyfi-settings.php:123
+msgid "Cookies URL"
+msgstr "URL política de Cookies"
+
+#: ../classes/class-wpcyfi-settings.php:135
+msgid "As easiest as:"
+msgstr "Tant fàcil com:"
+
+#: ../classes/class-wpcyfi-settings.php:136
+msgid "Add Current Year using this shortcode: [cy]"
+msgstr "Afegeix l'Any Actual utilitzant aquest shortcode: [cy]"
+
+#: ../classes/class-wpcyfi-settings.php:137
+msgid "Add Copyright symbol &copy; using this shortcode: [c]"
+msgstr ""
+"Afegeix el símbol del Copyright &copy; utilitzant aquest shortcode: [c]"
+
+#: ../classes/class-wpcyfi-settings.php:138
+msgid ""
+"Add Legal Notice link using this shortcode: [legal_notice] (form below must "
+"be filled in)."
+msgstr ""
+"Afegeix l'Avís legal utilitzant aquest shortcode: [legal_notice] (ha d'estar "
+"omplert el formulari de sota)"
+
+#: ../classes/class-wpcyfi-settings.php:139
+msgid ""
+"Add Cookies link using this shortcode: [cookies] (form below must be filled "
+"in)."
+msgstr ""
+"Afegeix la Política de Cookies utilitzant aquest shortcode: [cookies] (ha "
+"d'estar omplert el formulari de sota)"
+
+#: ../classes/class-wpcyfi-settings.php:140
+msgid ""
+"Legal Notice and Cookies policy must be configured in the plugin options "
+"with the name and the URL."
+msgstr ""
+"L'Avís Legal i la Política de Cookies han d'estar configurats en les opcions "
+"del plugin amb el Nom i l'URL"
+
+#: ../classes/class-wpcyfi-settings.php:210
+msgid "Not valid URL"
+msgstr "La URL no és vàlida"
+
+#~ msgid "WP Current year and Footer Information"
+#~ msgstr ""
+#~ "Any actual i informació del peu de página (WP Current year and Footer "
+#~ "Information)"
+
+#~ msgid "Legal Notice Name"
+#~ msgstr "Nom Avís Legal"
+
+#~ msgid "Legal Notice URL"
+#~ msgstr "URL Avís Legal"
+
+#~ msgid "Show URL in a new Page"
+#~ msgstr "Mostra l'URL en una nova pestanya"
+
+#~ msgid "Cookies Name"
+#~ msgstr "Nom Política de Cookies"
+
+#~ msgid "Current Year and Footer Information"
+#~ msgstr ""
+#~ "Any Actual i Informació al Peu de Pàgina (Current Year and Footer "
+#~ "Information)"
+
+#~ msgid "Save"
+#~ msgstr "Guardar"
+
+#~ msgid "Add a Name"
+#~ msgstr "Afegeix un nom"
+
+#~ msgid "Add an URL"
+#~ msgstr "Afegeix una URL"
+
+#~ msgid "Changes saved."
+#~ msgstr "Canvis guardats."
+
+#~ msgid "For use the shortcode of copyright use this: [c]"
+#~ msgstr "Per utilizar aquest shortocode com copyright utilizar això: [c]"
+
+#~ msgid "For use this shorcode as the acual year use this: [current_year]"
+#~ msgstr ""
+#~ "Per utilitzar aquest shorcode com l'any acual utilitzar això: "
+#~ "[current_year]"
+
+#~ msgid ""
+#~ "For use a shorctode with an URL linked, First: put the name of you want "
+#~ "to see linked, Second: Put a valid URL, Third: Check if you want that URL "
+#~ "open in new page. (You can edit two shorctodes)"
+#~ msgstr ""
+#~ "Per utilitzar un shorctode amb un URL vinculat, primer: posar el nom de "
+#~ "vostès volen veure enllaçada, segon: posar una adreça URL vàlida, tercer: "
+#~ "comprovar si voleu aquell URL obrir en nova pàgina. (Podeu editar dos "
+#~ "shorctodes)"
+
+#~ msgid ""
+#~ "For use your edited shorctode are, for legal notice [legal_notice], and "
+#~ "for cookies [cookies]"
+#~ msgstr ""
+#~ "Per utilizar el teu shortcode editat, per l'avís legal es [legal_notice], "
+#~ "i per les cookies es [cookies]"
+
+#~ msgid "All information has added successfully."
+#~ msgstr "Tota l'informacio s'ha afegit correctament"
+
+#~ msgid "WP Current Year and Footer Information"
+#~ msgstr "Any Actual i Informacio al peu"
+
+#~ msgid ""
+#~ "WP Current Year and Footer Information provide you to put the name what "
+#~ "you want."
+#~ msgstr ""
+#~ "WP Any Actual i Informacio al peu et permet posar el nom que vulguis amb "
+#~ "l'ajuda de shortcodes."
